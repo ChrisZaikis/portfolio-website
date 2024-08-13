@@ -12,7 +12,7 @@ export const projects = [
     title: "WorldWise GPS App",
     des: "The WorldWise GPS App",
     img: "/z2.png",
-    iconLists: ["/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    iconLists: ["/tail.svg", "/ts.svg", "/tailw.svg", "/c.svg"],
     link: "https://github.com/ChrisZaikis/worldwise",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     title: "The Wilnd Oasis Website",
     des: "Welcom to paradise The Wild Oasis",
     img: "/z3.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/re.svg", "/tailw.svg", "/ts.svg", "/next.svg"],
     link: "https://github.com/ChrisZaikis/the-wild-oasis-website",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     title: "Pizza Order Website",
     des: "Top  Pizza Order Website Future",
     img: "/z4.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/tailw.svg"],
     link: "https://github.com/ChrisZaikis/fast-react-pizza",
   },
 ];
