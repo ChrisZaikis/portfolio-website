@@ -31,4 +31,12 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/tailw.svg"],
     link: "https://github.com/ChrisZaikis/fast-react-pizza",
   },
+  {
+    id: 4,
+    title: "Movie List",
+    des: "Movie List",
+    img: "/z5.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/tailw.svg"],
+    link: "https://github.com/ChrisZaikis/usepopcorn",
+  },
 ];
