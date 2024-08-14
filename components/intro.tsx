@@ -37,7 +37,7 @@ export default function Intro() {
               height={300}
               quality={95}
               priority={true}
-              className="object-cover rounded-full  border-4 bg-gray-400 border-dotted border-x-white drop-shadow-2xl"
+              className="object-cover rounded-full focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer  border-4 bg-gray-400 border-dotted border-x-white drop-shadow-2xl"
             />
           </motion.div>
 
@@ -58,7 +58,7 @@ export default function Intro() {
       </div>
 
       <motion.h1
-        className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
+        className="mb-10 mt-10 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
