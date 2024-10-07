@@ -11,11 +11,12 @@
   "dependencies": {
     "@react-email/components": "^0.0.7",
     "@react-email/tailwind": "^0.0.8",
+    "@react-three/drei": "^9.112.0",
     "@react-three/fiber": "^8.17.5",
     "@types/node": "20.3.2",
     "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
-    "@types/three": "^0.167.1",
+    "@types/three": "^0.167.2",
     "autoprefixer": "10.4.14",
     "clsx": "^1.2.1",
     "eslint": "8.43.0",
